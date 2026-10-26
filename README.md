@@ -20,7 +20,7 @@ make_lambda_fig.py   画 lambda 曲线
 run_repro.bat        跑单个实验
 run_length.bat       跑 64/128/256 三组
 requirements.txt     依赖
-Lastde复现汇报_终版.pptx
+Lastde复现汇报-算法部分.pptx
 figures/  results/  tools/
 ```
 
