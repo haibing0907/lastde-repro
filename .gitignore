@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# 模型 / 临时缓存（会自动重新生成，不要传 GitHub）
+.hf_cache/
+tmp*/
+torchinductor_*/
+.venv/
+.idea/
+preview-*/
+*.log
+
+# 数据与模型权重（体积大，用说明文档代替）
+data/
+*.raw_data.json
+*.bin
+*.safetensors
+
+# 运行产物（想保留就删掉下面两行）
+# lastde_results.csv
+# *.png
